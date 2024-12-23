@@ -1,4 +1,8 @@
+## About
+
 GameEasy is a program developed by Scratch Software that allows you to easily run Windows-based games on Linux systems using Wine 🍷. This tool simplifies the process by handling dependencies and providing an interactive interface for game installation. GameEasy is designed to enhance the Wine experience for users who wish to play their Windows games on Linux without needing deep technical knowledge.
+
+Note: GameEasy was fully made with Batch scripting 📝, providing a lightweight and efficient way to run your games.
 
 All credits for this project go to Scratch Software for making this possible. Thank you! 🙏
 How GameEasy Works 🔧
@@ -12,7 +16,7 @@ GameEasy simplifies the process of setting up a Windows game on your Linux machi
     Copy Process: Copies necessary files and provides feedback on whether the operation was successful or not.
     Running the Game: After a successful setup, it will create a .sh script to run the game. Right-click and select "Run as a program" 🎮.
 
-Installation ⚙️
+## Installation ⚙️
 Requirements:
 
     Wine (installed and set up properly on your Linux system)
@@ -34,7 +38,7 @@ Once Wine is installed and GameEasy is downloaded, you can run the program with 
 
     ./gameeasy.sh
 
-Tutorial 📝
+## Tutorial 📝
 
 Follow these steps to set up your game with GameEasy:
 
@@ -62,7 +66,7 @@ Follow these steps to set up your game with GameEasy:
     Troubleshooting:
     If the operation was not successful, GameEasy will provide an error code to help diagnose the problem. Check the error code and refer to the documentation for troubleshooting 🔧.
 
-License 📜
+## License 📜
 
 Before using GameEasy, please read the LICENSE.md file carefully. It contains important information about the terms and conditions for using the software. Ensure that you understand the license before proceeding with installation or usage.
 Acknowledgments 🙌
@@ -71,3 +75,4 @@ Acknowledgments 🙌
     Scratch Software: The team behind GameEasy and the development of this project.
 
 Thank you for using GameEasy! Enjoy your games on Linux with ease! 🎮
+
