@@ -31,19 +31,19 @@ Steps to Install:
     Install Wine:
     Make sure Wine is installed on your Linux system. You can install it using your package manager:
 
-sudo apt install wine64
+sudo apt install wine
 
 Run GameEasy:
 Once Wine is installed and GameEasy is downloaded, you can run the program with the following command:
 
-    ./gameeasy.sh
+    ./FileCreator.sh
 
 ## Tutorial 📝
 
 Follow these steps to set up your game with GameEasy:
 
     Start the Program:
-    Run the gameeasy.sh file to start the program. This will launch the interactive setup.
+    Run the FileCreator.sh file to start the program. This will launch the interactive setup.
 
     Choose a Directory Name:
     The program will ask for a name for the new directory, which is typically the game's name. You can name it whatever you like.
