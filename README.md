@@ -4,7 +4,7 @@ GameEasy is a program developed by Scratch Software that allows you to easily ru
 
 Note: GameEasy was fully made with Batch scripting 📝, providing a lightweight and efficient way to run your games.
 
-All credits for this project go to Scratch Software for making this possible. Thank you! 🙏
+All credits for this project go to Wine for making this possible. Thank you! 🙏
 How GameEasy Works 🔧
 
 GameEasy simplifies the process of setting up a Windows game on your Linux machine by doing the following:
