@@ -1,5 +1,9 @@
 ## About
 
+**Important Notice:**
+
+This repository is the current and updated version of GameEasy. All updates, bug fixes, and support will now be handled here. The previous repository at https://github.com/Scratch-Software/GameEasy is no longer being updated. Please refer to this repository for the latest releases and developments.
+
 GameEasy is a program developed by Scratch Software that allows you to easily run Windows-based games on Linux systems using Wine 🍷. This tool simplifies the process by handling dependencies and providing an interactive interface for game installation. GameEasy is designed to enhance the Wine experience for users who wish to play their Windows games on Linux without needing deep technical knowledge.
 
 Note: GameEasy was fully made with Batch scripting 📝, providing a lightweight and efficient way to run your games.
